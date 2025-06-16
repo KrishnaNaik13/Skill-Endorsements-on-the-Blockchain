@@ -24,3 +24,4 @@ To create a decentralized alternative to centralized professional platforms like
 
 _Replace this with the deployed contract address._
 Example: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.on-chain-skill-endorsements`
+![image](https://github.com/user-attachments/assets/792cfa7d-2c81-41b4-9e73-b87470df3450)
